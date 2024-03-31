@@ -1,0 +1,7 @@
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0x38aA8E70cB4572216a768d14958d4d2FaAce79E7'
+quorum: 1
+# -bitcoinerlab-explorer
